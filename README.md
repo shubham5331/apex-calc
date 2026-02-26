@@ -1,4 +1,4 @@
-# React Calculator App
+# Apex calculator 
 
 ## 📌 Description
 This is a simple and professional React Calculator project built using:
